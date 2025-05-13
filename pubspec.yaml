@@ -1,0 +1,12 @@
+name: pretium_finance_assessment
+description: A clean Flutter project.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies: {}
