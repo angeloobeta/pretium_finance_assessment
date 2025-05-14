@@ -11,4 +11,7 @@ dependencies:
   shared_preferences: ^2.5.3
 
 dev_dependencies: {}
+
+flutter:
+  uses-material-design: true
   
